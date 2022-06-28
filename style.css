@@ -1,0 +1,117 @@
+
+.bg-white {
+  background-color: #FFFFFF;
+  color: #222436;
+}
+
+.bg-cream {
+  background: rgb(255,255,255);
+  background: linear-gradient(162deg, rgba(255,255,255,1) 0%, rgba(218,216,255,1) 100%);
+  color: #222436;
+  border-bottom: 1px solid  #222436;
+}
+
+.bg-yellow {
+    background-color: #F9DC5C;
+    color: #222436;
+}
+.bg-blue {
+    background-color: #6f2dbd;
+}
+.text-blue {
+    color: #6f2dbd;
+}
+.bg-red {
+    background-color: #FF6542;
+}
+
+.text-red{
+  color: #FF6542;
+}
+
+.bg-dark {
+  background-color: #222436;
+  color:  white;
+
+}
+
+.header-image {
+  height: 400px;
+  background-image: url("pictures/random_transformations.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 35%;
+  justify-content: center;
+  align-items: center; 
+}
+.header-image img {
+    width: 300px; 
+}
+
+
+.center {
+  text-align: center;
+}
+
+.center-column {
+  justify-content: center;
+}
+.right-column {
+  justify-content: right;
+}
+
+.bg-dark {
+  background-color: #222436;
+  color:  white;
+
+}
+
+
+
+.padding{
+  padding: 2rem;
+}
+
+.cart {
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:  200;
+    padding: 1px 20px;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-size: 240%;
+  font-weight:  400;
+  overflow-wrap: break-word;
+}
+
+h2 {
+  font-weight:  200;
+}
+
+h3 {
+  font-size: 150%;
+  font-weight:  400;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-size: 150%;
+  font-weight:  400;
+  text-transform: uppercase;
+}
+
+.custom-button {
+  font-family: 'Raleway', sans-serif;
+   border-radius: 5px;
+   background: white;
+   margin: 20px;
+}
