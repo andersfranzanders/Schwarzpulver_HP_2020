@@ -4,6 +4,11 @@
   color: #222436;
 }
 
+.bg-white-trans {
+  background-color: rgba(255,255,255,0.5);
+  color: #222436;
+}
+
 .bg-cream {
   background: rgb(255,255,255);
   background: linear-gradient(162deg, rgba(255,255,255,1) 28%, rgba(197,210,255,1) 100%);
