@@ -10,10 +10,9 @@
 }
 
 .bg-cream {
-  background: rgb(255,255,255);
-  background: linear-gradient(162deg, rgba(255,255,255,1) 28%, rgba(197,210,255,1) 100%);
-  color: #222436;
-  border-bottom: 1px solid  #888888;
+background: rgb(255,255,255);
+background: linear-gradient(129deg, rgba(255,255,255,1) 24%, rgba(223,246,255,1) 63%, rgba(255,236,201,1) 100%);
+border-bottom: 1px solid  #888888;
 }
 
 .bg-yellow {
@@ -133,6 +132,14 @@
     box-shadow: 10px 10px 15px 2px rgba(0, 0, 0, 0.1);
     text-align: left;
 }
+.cart-minimal {
+    font-family: 'Roboto', sans-serif;
+    font-weight:  300;
+    padding: 10px 30px;
+    text-align: left;
+}
+
+
 .shadow{
   box-shadow: 10px 10px 15px 2px rgba(0, 0, 0, 0.1);
 }
