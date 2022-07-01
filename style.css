@@ -5,15 +5,15 @@
 }
 
 .bg-white-trans {
-  background-color: rgba(255,255,255,0.25);
-  color: white;
+  background-color: rgba(255,255,255,0.35);
+  color: #222436;
 }
 
 .bg-cream {
 background: rgb(255,255,255);
-background: linear-gradient(217deg, rgba(255,255,255,1) 2%, rgba(255,144,0,1) 48%, rgba(255,93,255,1) 98%, rgba(216,150,255,1) 100%);
+background: linear-gradient(217deg, rgba(255,255,255,1) 5%, rgba(255,200,50,1) 48%, rgba(255,100,255,1) 98%, rgba(216,150,255,1) 100%);
 border-bottom: 1px solid  #888888;
-color: white;
+color: #222436;
 }
 
 .bg-black-gradient{
