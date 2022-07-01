@@ -11,7 +11,7 @@
 
 .bg-cream {
 background: rgb(255,255,255);
-background: linear-gradient(129deg, rgba(255,255,255,1) 24%, rgba(223,246,255,1) 63%, rgba(255,236,201,1) 100%);
+background: linear-gradient(217deg, rgba(255,255,255,1) 30%, rgba(255,246,223,1) 70%, rgba(255,201,255,1) 100%);
 border-bottom: 1px solid  #888888;
 }
 
