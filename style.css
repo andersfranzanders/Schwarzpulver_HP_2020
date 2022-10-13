@@ -66,6 +66,17 @@ color: #222436;
     width: 300px; 
 }
 
+.footer-image {
+  height: 400px;
+  background-image: url("pictures/auftritt.JPG");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 35%;
+  justify-content: center;
+  align-items: center; 
+}
+
+
 
 .center {
   text-align: center;
